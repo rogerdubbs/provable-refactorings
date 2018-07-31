@@ -8,7 +8,7 @@ This recipe is essentially a reverse of [Extract Function (fix link)](#).
 
 You can't inline if it's polymorphic.
 
-#Recipe
+# Recipe
 
 1. For member functions, move the definition in to the class declaration
 2. If overloaded, rename to eliminate the overload
